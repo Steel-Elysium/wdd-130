@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\aboutme",
+    "\\wwr",
+    "\\wwr\\Plans",
+    "\\wwr\\styles"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\wwr\\index.html",
   "PreviewInSolutionExplorer": false
 }

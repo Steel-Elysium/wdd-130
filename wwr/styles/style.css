@@ -1,3 +1,27 @@
-{
+*,
+*:before,
+*:after{
+    box-sizing: border-box;
+}
 
+html{ 
+    font-size: 62.5% /*10px base*/
+}
+#logo_link{
+}
+.card-img{
+    width: 450px;
+    height: auto; 
+}
+.home-grid{
+    background-color: crimson;
+    display: inline;
+    border: 2px solid;
+}
+.card{
+
+}
+#hero-img{
+    width: 600px;
+    height: auto;
 }
